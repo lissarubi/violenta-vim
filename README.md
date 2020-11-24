@@ -18,6 +18,15 @@ call plug#end()
 
 And now, you can run:
 
-```:color violenta```
+`:color violenta`
 
 And now, you are using Violenta Theme!
+
+# Vim Airline
+
+If you uses Vim Airline, you can use Violent in your Statusbar. using: `let g:airline_theme='violenta'` in your Vim config file.
+
+![Airline-1](assets/airline-1.png)
+![Airline-2](assets/airline-2.png)
+![Airline-3](assets/airline-3.png)
+![Airline-4](assets/airline-4.png)
