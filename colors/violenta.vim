@@ -31,7 +31,7 @@ let s:palette.accent    = {'dark': "#A60570"}
 let s:palette.panel     = {'dark': "#5C0211"}
 let s:palette.guide     = {'dark': "#A23446"}
 let s:palette.line      = {'dark': "#4F020E"}
-let s:palette.selection = {'dark': "#9C031D"}
+let s:palette.selection = {'dark': "#57063C"}
 let s:palette.fg        = {'dark': "#EEEEEE"}
 let s:palette.fg_idle   = {'dark': "#3E4B59"}
 "}}}
